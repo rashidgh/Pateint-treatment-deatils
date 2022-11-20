@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+    font-size: 17px;
+}
+body{
+    background-color: blanchedalmond;
+}
+form{
+    padding: 30px;
+    background-color: burlywood;
+    display: inline-block;
+    border: 1.5px solid;
+}
+label{
+    display: inline-block;
+    width: 150px;
+    margin: 10px;
+}
+input{
+    text-align: center;
+}
+#inp2{
+    cursor: pointer;
+    color: crimson;
+}
+#btn{
+    padding: 4px 12px;
+    background-color: brown;
+    margin-left: 40%;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+#tab2{
+    border: 1.5px solid crimson;
+    margin-top: 15px;
+    width: 33%;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+#th1{
+    border: 1px solid;
+    background-color: grey;
+    color: #fff;
+}
+#th2{
+    width: 250px;
+}
+td{
+    border: 1.5px solid;
+}
+#tab3{
+    position: absolute;
+    top: 20px;
+    left: 40%;
+}
+.pname{
+    color: crimson;
+}
+#tr1{
+    background-color: grey;
+}
+#tab3 th{
+    border: 1px solid;
+}
+#tab3,th,td{
+    padding: 8px;
+}
+i{
+    float: right;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-top: 3px;
+    font-size: 25px;
+    color: crimson;
+}

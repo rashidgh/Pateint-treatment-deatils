@@ -1,0 +1,30 @@
+[
+  {
+    "testname": "BloodPressure",
+    "price": 100
+  },
+  {
+    "testname": "SkinTest",
+    "price": 760
+  },
+  {
+    "testname": "EyeCheckUp",
+    "price": 480
+  },
+  {
+    "testname": "UltraSound",
+    "price": 840
+  },
+  {
+    "testname": "FullBodyCheckUp",
+    "price": 2000
+  },
+  {
+    "testname": "X-ray",
+    "price": 250
+  },
+  {
+    "testname": "Daibities",
+    "price": 660
+  }
+]
